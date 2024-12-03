@@ -1,0 +1,11 @@
+[
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.eligaorder.app",
+        "sha256_cert_fingerprints":
+          ["AF:7E:24:3E:E0:2F:72:E0:DC:77:DE:F7:C2:D4:5A:F5:41:94:2A:A4:13:68:5E:6F:80:05:B2:91:D3:4A:2C:09"]
+      }
+    }
+  ]
